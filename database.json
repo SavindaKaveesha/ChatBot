@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "questions": "hi",
+      "answer": "hello!"
+    },
+    {
+      "questions": "how are you? ",
+      "answer": "I am fine, How are you? "
+    },
+    {
+      "questions": "name? ",
+      "answer": "I am Chat Bot"
+    },
+    {
+        "questions": "What is your name?",
+        "answer": "I am a chatbot."
+      },
+      {
+        "questions": "How does your chatbot work?",
+        "answer": "I use natural language processing to understand and respond to user input."
+      },
+      {
+        "questions": "Can you tell a joke?",
+        "answer": "Sure! Why don't scientists trust atoms? Because they make up everything!"
+      }
+  ]
+}
